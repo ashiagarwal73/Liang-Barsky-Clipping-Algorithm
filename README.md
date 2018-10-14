@@ -1,4 +1,4 @@
-# Liang-Barsky-Clipping-Algorithm
+# Liang-Barsky-Line-Clipping-Algorithm
 
 Complete Implementation of Liang-Barsky Line clipping algorithm in openGL 
 <h3>1.Taking input from user on mouse clicks and then taking window coordinates on mouse click.</h3>
